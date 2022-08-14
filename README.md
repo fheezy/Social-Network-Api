@@ -2,8 +2,8 @@
 
 ## Description 
 
-Hello, Welcome to Social Network Project ! 
-API based where you are able to share your thoughts, react </br>
+Hello, Welcome to Social Network Project ! </br>
+An API based where you are able to share your thoughts, react </br>
 to fellow friends thoughts and etc.
 
 ## Table of Contents
